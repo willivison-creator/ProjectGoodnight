@@ -1,0 +1,394 @@
+# PROJECT GOODNIGHT
+
+## Editorial Bible
+
+### Version 1.0
+
+---
+
+# Purpose
+
+The Editorial Bible defines how every episode selects, prioritizes, summarizes, and presents news.
+
+Its purpose is to ensure that every episode feels consistent regardless of what stories occurred that day.
+
+The audience should never feel overwhelmed, manipulated, or exhausted.
+
+The editorial mission is to help listeners understand the day—not relive its chaos.
+
+---
+
+# Editorial Principles
+
+Every editorial decision should support these principles.
+
+## Accuracy
+
+Facts take priority over speed.
+
+Never knowingly report false or unverified information.
+
+If a developing story cannot be confirmed from reliable reporting, it should either be omitted or clearly described as developing.
+
+---
+
+## Clarity
+
+Explain stories in everyday language.
+
+Avoid unnecessary jargon.
+
+If a technical term must be used, briefly explain it.
+
+---
+
+## Relevance
+
+Choose stories because they matter to listeners—not because they generated the most online engagement.
+
+Ask:
+
+* Does this affect people's lives?
+* Is this nationally or locally significant?
+* Would a reasonable listener expect to hear about it?
+
+---
+
+## Balance
+
+A typical episode should include a mix of:
+
+* National news
+* International news
+* Sports
+* Mississippi news
+* Jackson-area news
+* Weather
+* One uplifting community story
+
+No single category should dominate unless justified by an extraordinary event.
+
+---
+
+## Calm
+
+Goodnight, Jackson is an evening broadcast.
+
+The goal is to leave listeners informed and settled.
+
+Avoid sensational language.
+
+Avoid speculation.
+
+Avoid emotional escalation.
+
+---
+
+# Editorial Workflow
+
+Every episode follows the same workflow.
+
+## Stage 1 — Collect
+
+Gather candidate stories from trusted sources.
+
+Separate them into categories.
+
+National
+
+International
+
+Sports
+
+State
+
+Local
+
+Weather
+
+Community
+
+---
+
+## Stage 2 — Verify
+
+Before a story is included:
+
+* Confirm it has been reported by a reliable source.
+* Check that names, dates, and locations are correct.
+* Avoid repeating rumors or social media speculation.
+
+---
+
+## Stage 3 — Rank
+
+Each candidate story receives a priority score.
+
+Suggested criteria:
+
+* Public importance
+* Geographic relevance
+* Timeliness
+* Listener interest
+* Lasting significance
+
+Stories are ranked before scripting begins.
+
+---
+
+## Stage 4 — Select
+
+Typical episode:
+
+National: 2–3 stories
+
+World: 1–2 stories
+
+Sports: 2 stories
+
+Mississippi: 1–2 stories
+
+Jackson: 1–2 stories
+
+Weather: 1 forecast
+
+Positive story: 1 feature
+
+Quality matters more than quantity.
+
+---
+
+# Story Structure
+
+Every story should answer four questions.
+
+What happened?
+
+Why does it matter?
+
+Who is affected?
+
+What comes next?
+
+If these questions cannot be answered concisely, simplify the story.
+
+---
+
+# Story Length
+
+Target:
+
+20–35 seconds per story.
+
+Never exceed one minute unless the event is of exceptional importance.
+
+Listeners should always feel the show is moving forward.
+
+---
+
+# Writing Style
+
+Write for the ear.
+
+Not for the eye.
+
+Preferred:
+
+"Today..."
+
+"This afternoon..."
+
+"Meanwhile..."
+
+"Closer to home..."
+
+Avoid:
+
+"According to..."
+
+"It has been reported that..."
+
+Unless attribution is necessary for clarity.
+
+---
+
+# Attribution
+
+Use attribution when:
+
+* Facts are disputed.
+* Information comes from official statements.
+* Statistics are quoted.
+* Claims cannot be independently verified.
+
+Examples:
+
+"The National Weather Service forecasts..."
+
+"State officials announced..."
+
+---
+
+# Sensitive Topics
+
+Some stories require additional care.
+
+Examples include:
+
+* Natural disasters
+* Fatal incidents
+* Public health
+* Crime
+* Children
+* Military conflict
+
+Guidelines:
+
+Report respectfully.
+
+Avoid graphic descriptions.
+
+Do not speculate.
+
+Do not dramatize.
+
+End with factual information or available resources when appropriate.
+
+---
+
+# Politics
+
+Political stories should be reported based on public significance, not partisan appeal.
+
+Avoid emotionally charged adjectives.
+
+Describe actions and decisions rather than assigning motives.
+
+---
+
+# Crime
+
+Only include crime stories when they are:
+
+* Significant to public safety
+* Major regional events
+* Necessary for awareness
+
+Avoid treating routine crime reports as entertainment.
+
+---
+
+# Weather
+
+Weather should sound conversational.
+
+Begin with the overall feel of tomorrow.
+
+Then mention temperatures, precipitation, or severe weather if relevant.
+
+Example:
+
+"Tomorrow looks warm and humid, with afternoon highs near ninety-two and a chance of scattered thunderstorms after lunch."
+
+---
+
+# Sports
+
+Sports should celebrate competition without assuming every listener follows every league.
+
+Prioritize:
+
+1. Mississippi teams
+2. SEC
+3. Major national stories
+4. International events when especially significant
+
+---
+
+# Positive Story
+
+Every episode ends with hope.
+
+Suitable topics include:
+
+Community volunteers
+
+Schools
+
+Healthcare
+
+Small businesses
+
+Historic preservation
+
+Festivals
+
+Scientific achievements
+
+Acts of kindness
+
+Environmental restoration
+
+The final story should remind listeners that good things continue to happen.
+
+---
+
+# Story Transitions
+
+Use natural transitions.
+
+Examples:
+
+"Meanwhile..."
+
+"Turning to sports..."
+
+"Back here at home..."
+
+"And finally..."
+
+Avoid abrupt changes.
+
+---
+
+# Episode Review
+
+Before publication, confirm:
+
+✔ Facts verified
+
+✔ Story order followed
+
+✔ Runtime within target
+
+✔ Positive ending included
+
+✔ No sensational language
+
+✔ Tone remains calm and conversational
+
+---
+
+# Editorial Integrity
+
+Goodnight, Jackson exists to inform.
+
+Not persuade.
+
+Not entertain through outrage.
+
+Not maximize engagement.
+
+Trust is earned one episode at a time.
+
+Every editorial decision should protect that trust.
+
+---
+
+# Version Control
+
+This Editorial Bible is the governing document for all future script generation.
+
+Changes should be versioned and documented.
+
+The objective is steady improvement without changing the core identity of the show.

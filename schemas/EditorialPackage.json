@@ -1,0 +1,36 @@
+{
+  "name": "editorial_package",
+  "description": "The final selected stories approved by the Editor for tonight's broadcast.",
+  "strict": true,
+  "schema": {
+    "type": "object",
+    "properties": {
+      "run_date": {
+        "type": "string",
+        "description": "Today's date."
+      },
+      "lead_story": {
+        "type": "object",
+        "description": "The most important story of the day.",
+        "properties": {
+          "headline": { "type": "string" },
+          "writer_instructions": { "type": "string", "description": "Notes for the writer on how to frame this story." }
+        },
+        "required": ["headline", "writer_instructions"]
+      },
+      "secondary_stories": {
+        "type": "array",
+        "description": "The other 2 to 3 stories chosen for the broadcast.",
+        "items": {
+          "type": "object",
+          "properties": {
+            "headline": { "type": "string" },
+            "writer_instructions": { "type": "string" }
+          },
+          "required": ["headline", "writer_instructions"]
+        }
+      }
+    },
+    "required": ["run_date", "lead_story", "secondary_stories"]
+  }
+}

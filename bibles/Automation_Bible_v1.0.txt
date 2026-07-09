@@ -1,0 +1,636 @@
+# PROJECT GOODNIGHT
+
+## Automation Bible
+
+### Version 1.0
+
+---
+
+# Purpose
+
+The Automation Bible defines every automated process required to produce a nightly episode of "Goodnight, Jackson."
+
+The goal is a fully automated production pipeline that requires no manual intervention under normal operating conditions.
+
+The system should be modular, fault tolerant, observable, and easily maintainable.
+
+Automation should prioritize reliability over speed.
+
+---
+
+# Guiding Principles
+
+Automation should be:
+
+• Modular
+• Observable
+• Repeatable
+• Recoverable
+• Version Controlled
+
+Every step should perform one responsibility.
+
+No component should perform multiple unrelated tasks.
+
+---
+
+# System Architecture
+
+The production pipeline consists of the following stages.
+
+Scheduler
+
+↓
+
+Research
+
+↓
+
+Editorial Selection
+
+↓
+
+Script Writing
+
+↓
+
+Quality Review
+
+↓
+
+Audio Generation
+
+↓
+
+Video Rendering
+
+↓
+
+Asset Storage
+
+↓
+
+Publishing
+
+↓
+
+Archiving
+
+↓
+
+Reporting
+
+Each stage produces an output consumed by the next stage.
+
+---
+
+# Nightly Production Schedule
+
+Suggested production timeline.
+
+8:30 PM
+
+Begin workflow.
+
+8:31 PM
+
+Collect news.
+
+8:35 PM
+
+Verify sources.
+
+8:40 PM
+
+Rank stories.
+
+8:45 PM
+
+Generate editorial outline.
+
+8:47 PM
+
+Generate script.
+
+8:50 PM
+
+Run editorial QA.
+
+8:52 PM
+
+Generate audio.
+
+8:58 PM
+
+Generate video.
+
+9:00 PM
+
+Publish episode.
+
+9:02 PM
+
+Archive assets.
+
+9:05 PM
+
+Send completion report.
+
+These times are configurable.
+
+---
+
+# Module 1
+
+Scheduler
+
+Purpose
+
+Launch the nightly workflow.
+
+Requirements
+
+• Runs automatically.
+• Supports manual execution.
+• Supports retry.
+• Records execution time.
+
+Inputs
+
+Date
+
+Time
+
+Configuration
+
+Outputs
+
+Workflow ID
+
+Timestamp
+
+Execution Log
+
+---
+
+# Module 2
+
+Research Engine
+
+Purpose
+
+Collect candidate stories.
+
+Sources may include:
+
+National news
+
+International news
+
+Sports
+
+Mississippi news
+
+Jackson-area news
+
+Weather
+
+Positive community stories
+
+Requirements
+
+Return structured data only.
+
+Never summarize.
+
+Never rank.
+
+Output
+
+Structured news objects.
+
+---
+
+# Module 3
+
+Editorial Engine
+
+Purpose
+
+Select stories.
+
+Responsibilities
+
+Remove duplicates.
+
+Rank importance.
+
+Apply Editorial Bible.
+
+Limit story count.
+
+Output
+
+Episode Outline
+
+---
+
+# Module 4
+
+Script Engine
+
+Purpose
+
+Write the episode.
+
+Requirements
+
+Follow Editorial Bible.
+
+Follow Production Bible.
+
+Maintain runtime.
+
+Maintain tone.
+
+Output
+
+Episode Script
+
+---
+
+# Module 5
+
+Editorial QA
+
+Purpose
+
+Validate the script.
+
+Checks include:
+
+Story order
+
+Grammar
+
+Tone
+
+Length
+
+Missing weather
+
+Missing positive story
+
+Duplicate information
+
+Output
+
+Approval
+
+or
+
+Revision Request
+
+---
+
+# Module 6
+
+Audio Generation
+
+Purpose
+
+Produce the nightly audio.
+
+Inputs
+
+Approved Script
+
+Audio Bible
+
+Production Bible
+
+Reference Style (if available)
+
+Outputs
+
+Master Audio
+
+Backup Audio
+
+Generation Log
+
+---
+
+# Module 7
+
+Video Generation
+
+Purpose
+
+Create a companion video.
+
+Default format
+
+Static branded background
+
+Episode title
+
+Date
+
+Optional captions
+
+Outputs
+
+MP4
+
+Thumbnail
+
+---
+
+# Module 8
+
+Asset Storage
+
+Purpose
+
+Store every production asset.
+
+Suggested Folder Structure
+
+/YYYY/
+
+```
+/MM/
+
+    /DD/
+
+        script.md
+
+        script.txt
+
+        audio.mp3
+
+        video.mp4
+
+        thumbnail.png
+
+        metadata.json
+
+        production.log
+```
+
+Nothing should be overwritten.
+
+Every episode is immutable.
+
+---
+
+# Module 9
+
+Publishing
+
+Responsibilities
+
+Generate title.
+
+Generate description.
+
+Generate tags.
+
+Upload assets.
+
+Record publication URL.
+
+Support multiple destinations.
+
+Publishing should occur only after QA approval.
+
+---
+
+# Module 10
+
+Reporting
+
+Generate a nightly production report.
+
+Example
+
+Episode Number
+
+Runtime
+
+Stories Included
+
+Generation Duration
+
+Publishing Status
+
+Warnings
+
+Errors
+
+Storage Location
+
+This report should be archived.
+
+---
+
+# Logging
+
+Every module writes logs.
+
+Minimum fields.
+
+Timestamp
+
+Workflow ID
+
+Module
+
+Status
+
+Duration
+
+Warnings
+
+Errors
+
+Logs should never be deleted automatically.
+
+---
+
+# Error Handling
+
+Every failure should have a recovery strategy.
+
+Research Failure
+
+Retry.
+
+Editorial Failure
+
+Restart editorial stage.
+
+Audio Failure
+
+Retry generation.
+
+Publishing Failure
+
+Retry upload.
+
+Archive Failure
+
+Alert operator.
+
+The workflow should recover from partial failures whenever possible.
+
+---
+
+# Notifications
+
+Upon completion send a notification containing:
+
+Episode number
+
+Runtime
+
+Publication status
+
+Any warnings
+
+Link to assets
+
+Failure notifications should include diagnostic information.
+
+---
+
+# Configuration
+
+System configuration should be external.
+
+Examples
+
+Production time
+
+Target runtime
+
+Publishing destinations
+
+Storage paths
+
+API credentials
+
+No configuration values should be hard-coded.
+
+---
+
+# Security
+
+API keys
+
+Passwords
+
+Tokens
+
+Credentials
+
+must never appear inside prompts or workflow definitions.
+
+Use secure secret management.
+
+---
+
+# Scalability
+
+The automation must support future expansion.
+
+Examples
+
+Goodnight Memphis
+
+Goodnight Nashville
+
+Goodnight Birmingham
+
+Goodnight Mississippi
+
+Localization should require configuration rather than workflow redesign.
+
+---
+
+# Monitoring
+
+Capture operational metrics.
+
+Average runtime
+
+Audio generation time
+
+Video generation time
+
+Workflow success rate
+
+Failure rate
+
+Retry count
+
+Publishing latency
+
+These metrics guide future optimization.
+
+---
+
+# Disaster Recovery
+
+Every production should be reproducible.
+
+Archive:
+
+Scripts
+
+Metadata
+
+Logs
+
+Audio
+
+Video
+
+Prompt versions
+
+Bible versions
+
+Workflow version
+
+If an episode must be regenerated, the system should know exactly which inputs produced the original.
+
+---
+
+# Version Control
+
+Automation workflows are source-controlled.
+
+Every release includes:
+
+Workflow Version
+
+Prompt Versions
+
+Bible Versions
+
+Software Versions
+
+Configuration Version
+
+This ensures complete reproducibility.
+
+---
+
+# Definition of Success
+
+The automation succeeds when a listener cannot distinguish whether an episode was created manually or automatically.
+
+The workflow should complete with minimal operator intervention while preserving the editorial, production, and audio standards established by the governing Bibles.
+
+Automation exists to protect consistency—not replace craftsmanship.

@@ -1,0 +1,42 @@
+{
+  "name": "performance_package",
+  "description": "The broadcast script updated with tone, pacing, and pause instructions for the audio generator.",
+  "strict": true,
+  "schema": {
+    "type": "object",
+    "properties": {
+      "run_date": {
+        "type": "string",
+        "description": "Today's date."
+      },
+      "overall_tone": {
+        "type": "string",
+        "description": "A brief instruction on the general mood of tonight's episode."
+      },
+      "directed_intro": {
+        "type": "string",
+        "description": "The intro script with acting notes and pauses added."
+      },
+      "directed_news": {
+        "type": "string",
+        "description": "The news script with acting notes and pauses added."
+      },
+      "directed_weather_sports": {
+        "type": "string",
+        "description": "The weather and sports script with acting notes and pauses added."
+      },
+      "directed_outro": {
+        "type": "string",
+        "description": "The outro script with acting notes and pauses added."
+      }
+    },
+    "required": [
+      "run_date", 
+      "overall_tone", 
+      "directed_intro", 
+      "directed_news", 
+      "directed_weather_sports", 
+      "directed_outro"
+    ]
+  }
+}

@@ -1,0 +1,364 @@
+# PROJECT GOODNIGHT
+
+## Audio Production Bible
+
+### Version 1.0
+
+---
+
+# Purpose
+
+The audio should feel less like a song and less like a traditional newscast.
+
+It should feel like an evening conversation that just happens to be musical.
+
+The listener should immediately recognize the first few seconds as "Goodnight, Jackson."
+
+Every episode should sound like it belongs to the same series.
+
+The news changes.
+
+The identity never does.
+
+---
+
+# Runtime
+
+Target Runtime:
+3:30–4:30
+
+Minimum:
+3:00
+
+Maximum:
+5:00
+
+The pace should never feel rushed.
+
+Listeners should feel invited into the broadcast.
+
+---
+
+# Musical Personality
+
+Overall Mood
+
+• Warm
+• Familiar
+• Hopeful
+• Relaxed
+• Neighborly
+• Confident
+• Calm
+• Optimistic
+
+Avoid
+
+• Aggressive
+• Dramatic
+• Overly emotional
+• Sad
+• Triumphant
+• Comedic
+• Over-produced
+
+The emotional goal is to help listeners unwind while staying informed.
+
+---
+
+# Musical Style
+
+Country-pop with modern broadcast polish.
+
+Imagine the warmth of a hometown radio station combined with contemporary Nashville production.
+
+Instrumentation should support the storytelling rather than compete with it.
+
+Primary instruments:
+
+• Acoustic guitar
+• Clean electric guitar
+• Electric bass
+• Live drum kit
+• Piano or warm keyboard pad
+• Light percussion only when needed
+
+No heavy rock guitars.
+
+No electronic dance elements.
+
+No cinematic scoring.
+
+The music should create momentum without demanding attention.
+
+---
+
+# Tempo
+
+Target:
+112–116 BPM
+
+Steady 4/4.
+
+Consistent throughout the episode.
+
+No dramatic tempo changes.
+
+---
+
+# Lead Vocal
+
+The lead voice is the anchor of the show.
+
+He is not "performing."
+
+He is communicating.
+
+Characteristics:
+
+• Warm
+• Mature
+• Friendly
+• Calm
+• Trustworthy
+• Slight smile in the voice
+• Excellent diction
+• Natural pacing
+• Never rushed
+
+The delivery should live between speaking and singing.
+
+Think rhythmic storytelling rather than melodic performance.
+
+The listener should feel as though someone is sitting beside them at the kitchen table explaining what happened today.
+
+---
+
+# Harmony Vocals
+
+The backing vocals are the signature of the show.
+
+They are not decoration.
+
+They are a second narrator.
+
+Their job is to reinforce the emotional rhythm of the broadcast.
+
+Characteristics:
+
+• Three male harmony voices
+• Rich but understated
+• Tight harmony
+• Wide stereo placement
+• Soft entrances
+• Gentle exits
+
+They never overpower the lead.
+
+Instead they:
+
+• Echo important phrases
+• Finish thoughts
+• Reinforce key words
+• Create emotional lift
+• Smooth transitions
+
+The harmonies should feel almost conversational.
+
+---
+
+# Vocal Interaction
+
+The lead always owns the story.
+
+The harmonies support the story.
+
+Example interaction:
+
+Lead:
+"Meanwhile here in Mississippi..."
+
+Harmony:
+"...right here at home..."
+
+Lead:
+"The community came together..."
+
+Harmony:
+"...just like always..."
+
+The backup voices should sound supportive rather than interruptive.
+
+---
+
+# Pacing
+
+Every story follows the same rhythm.
+
+Introduce
+
+Explain
+
+Transition
+
+Resolve
+
+Pause
+
+Move on.
+
+Natural pauses are critical.
+
+Silence is part of the production.
+
+---
+
+# Story Transitions
+
+Transitions should feel effortless.
+
+Examples:
+
+"Meanwhile..."
+
+"Closer to home..."
+
+"Across the state..."
+
+"On the sports front..."
+
+"And finally..."
+
+Never use abrupt topic changes.
+
+---
+
+# Music Dynamics
+
+Music should gently rise beneath important stories.
+
+Lower slightly during factual reporting.
+
+Lift during positive stories.
+
+Become warmest during the closing.
+
+Never overwhelm the narration.
+
+---
+
+# Mixing
+
+Lead vocal:
+Always centered.
+
+Harmony vocals:
+Wide stereo image.
+
+Acoustic guitar:
+Wide.
+
+Bass:
+Centered.
+
+Kick:
+Centered.
+
+Snare:
+Centered.
+
+Pads:
+Wide but subtle.
+
+Reverb:
+Warm and natural.
+
+Compression:
+Broadcast-ready without sounding over-processed.
+
+---
+
+# Episode Structure
+
+Opening
+
+Welcome.
+
+Set the mood.
+
+National Headlines
+
+Global News
+
+Sports
+
+Mississippi News
+
+Jackson Area News
+
+Weather
+
+Positive Community Story
+
+Closing Reflection
+
+Signature Sign-off
+
+This order should remain constant across every episode.
+
+---
+
+# Ending
+
+Every broadcast should slow slightly during the final twenty seconds.
+
+The listener should feel the day gently coming to an end.
+
+The final words should feel familiar and comforting.
+
+The emotional takeaway is:
+
+"The day is over.
+
+You're informed.
+
+Tomorrow will take care of itself."
+
+---
+
+# Identity Rules
+
+The show should never chase viral trends.
+
+Never sound sensational.
+
+Never manufacture excitement.
+
+The confidence comes from consistency.
+
+Listeners should return because the experience is dependable.
+
+The goal is not simply to report the news.
+
+The goal is to become part of someone's nightly routine.
+
+---
+
+# Success Criteria
+
+A first-time listener should think:
+
+"That was enjoyable."
+
+A regular listener should think:
+
+"It feels good to be home."
+
+If an episode can be identified as "Goodnight, Jackson" within the first ten seconds without hearing the title, the production has succeeded.
+
+---
+
+Version 1.0
+
+This document is intended to remain stable over time. Changes should be deliberate, documented, and versioned so the show's identity evolves without losing the qualities that make it recognizable.
+

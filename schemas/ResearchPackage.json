@@ -1,0 +1,36 @@
+{
+  "name": "research_package",
+  "description": "The daily news, weather, and sports gathered by the Research Agent.",
+  "strict": true,
+  "schema": {
+    "type": "object",
+    "properties": {
+      "run_date": {
+        "type": "string",
+        "description": "Today's date."
+      },
+      "weather_summary": {
+        "type": "string",
+        "description": "The weather forecast for Jackson, Mississippi."
+      },
+      "sports_updates": {
+        "type": "string",
+        "description": "Any updates regarding Ole Miss, Chicago Cubs, or New Orleans Saints."
+      },
+      "top_stories": {
+        "type": "array",
+        "description": "A list of the raw news stories found for the day.",
+        "items": {
+          "type": "object",
+          "properties": {
+            "headline": { "type": "string" },
+            "details": { "type": "string" },
+            "source": { "type": "string" }
+          },
+          "required": ["headline", "details", "source"]
+        }
+      }
+    },
+    "required": ["run_date", "weather_summary", "sports_updates", "top_stories"]
+  }
+}

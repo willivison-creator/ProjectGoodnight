@@ -1,0 +1,22 @@
+{
+  "name": "executive_review_package",
+  "description": "The final approval decision from the Executive Producer.",
+  "strict": true,
+  "schema": {
+    "type": "object",
+    "properties": {
+      "is_approved": {
+        "type": "boolean",
+        "description": "Must be true if the episode is perfect, or false if it breaks any rules."
+      },
+      "rejection_reason": {
+        "type": "string",
+        "description": "If the episode is rejected, explain exactly what went wrong. If approved, write 'None'."
+      }
+    },
+    "required": [
+      "is_approved", 
+      "rejection_reason"
+    ]
+  }
+}

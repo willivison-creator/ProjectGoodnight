@@ -1,0 +1,42 @@
+{
+  "name": "broadcast_package",
+  "description": "The finalized script segments written for tonight's episode.",
+  "strict": true,
+  "schema": {
+    "type": "object",
+    "properties": {
+      "run_date": {
+        "type": "string",
+        "description": "Today's date."
+      },
+      "intro_script": {
+        "type": "string",
+        "description": "The welcoming opening lines of the podcast."
+      },
+      "news_script": {
+        "type": "string",
+        "description": "The main body of the script containing the news stories."
+      },
+      "weather_sports_script": {
+        "type": "string",
+        "description": "The segment covering the Jackson weather forecast and Ole Miss/Saints/Cubs updates."
+      },
+      "outro_script": {
+        "type": "string",
+        "description": "The final sign-off and goodbye."
+      },
+      "estimated_runtime_seconds": {
+        "type": "integer",
+        "description": "The estimated length of the script in seconds, targeting between 210 and 270 seconds."
+      }
+    },
+    "required": [
+      "run_date", 
+      "intro_script", 
+      "news_script", 
+      "weather_sports_script", 
+      "outro_script", 
+      "estimated_runtime_seconds"
+    ]
+  }
+}

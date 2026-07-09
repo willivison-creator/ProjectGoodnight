@@ -1,0 +1,35 @@
+{
+  "name": "publishing_package",
+  "description": "The details needed to actually post the episode online.",
+  "strict": true,
+  "schema": {
+    "type": "object",
+    "properties": {
+      "run_date": {
+        "type": "string",
+        "description": "Today's date."
+      },
+      "episode_title": {
+        "type": "string",
+        "description": "A catchy, professional title for today's episode."
+      },
+      "show_notes": {
+        "type": "string",
+        "description": "The summary paragraph that listeners will read before clicking play."
+      },
+      "tags": {
+        "type": "array",
+        "description": "A list of 5 to 10 keywords for YouTube.",
+        "items": {
+          "type": "string"
+        }
+      }
+    },
+    "required": [
+      "run_date", 
+      "episode_title", 
+      "show_notes", 
+      "tags"
+    ]
+  }
+}

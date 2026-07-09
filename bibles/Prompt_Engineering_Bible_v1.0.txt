@@ -1,0 +1,451 @@
+# PROJECT GOODNIGHT
+
+## Prompt Engineering Bible
+
+### Version 1.0
+
+---
+
+# Purpose
+
+The Prompt Engineering Bible establishes the standards for designing, maintaining, testing, and versioning every prompt used within Project Goodnight.
+
+Prompts are considered software assets.
+
+They are not disposable instructions.
+
+Every prompt should be modular, reusable, version-controlled, and documented.
+
+---
+
+# Core Philosophy
+
+Project Goodnight does not rely on one "magic prompt."
+
+Instead, it relies on multiple specialized prompts working together.
+
+Each prompt should have one clearly defined responsibility.
+
+Small prompts are easier to maintain than large prompts.
+
+---
+
+# Prompt Hierarchy
+
+Every workflow follows the same hierarchy.
+
+Project Rules
+
+↓
+
+Production Bible
+
+↓
+
+Editorial Bible
+
+↓
+
+Prompt Library
+
+↓
+
+Generated Output
+
+No prompt may contradict the governing Bibles.
+
+---
+
+# Prompt Categories
+
+The system consists of several prompt classes.
+
+## 1. System Prompt
+
+Defines the permanent identity of Goodnight, Jackson.
+
+Contains:
+
+* Mission
+* Editorial philosophy
+* Production standards
+* Tone
+* Audience
+
+This prompt changes very rarely.
+
+---
+
+## 2. Research Prompt
+
+Responsible only for gathering and organizing news.
+
+Never writes scripts.
+
+Outputs structured information only.
+
+---
+
+## 3. Editorial Prompt
+
+Chooses which stories should appear.
+
+Ranks them.
+
+Rejects weak stories.
+
+Produces an ordered episode outline.
+
+---
+
+## 4. Script Prompt
+
+Transforms the approved outline into a spoken script.
+
+Must follow the Editorial Bible.
+
+---
+
+## 5. Audio Prompt
+
+Converts the script into instructions for the music or speech generator.
+
+References the Audio Bible.
+
+Does not rewrite the news.
+
+---
+
+## 6. Video Prompt
+
+Creates instructions for visuals.
+
+References branding.
+
+Does not alter editorial content.
+
+---
+
+## 7. Publishing Prompt
+
+Produces:
+
+Episode title
+
+Description
+
+Keywords
+
+Social media summary
+
+---
+
+## 8. QA Prompt
+
+Reviews the completed episode.
+
+Checks:
+
+Accuracy
+
+Runtime
+
+Tone
+
+Story order
+
+Consistency
+
+---
+
+# Prompt Design Principles
+
+Every prompt should satisfy five principles.
+
+## Single Responsibility
+
+Each prompt performs one task.
+
+Never combine unrelated tasks.
+
+---
+
+## Clear Inputs
+
+Every variable must be explicitly defined.
+
+Example:
+
+Date
+
+City
+
+Stories
+
+Weather
+
+Sports
+
+Positive story
+
+Do not rely on unstated assumptions.
+
+---
+
+## Clear Outputs
+
+Every prompt should define exactly what it returns.
+
+Examples:
+
+Markdown
+
+JSON
+
+Plain text
+
+Script
+
+Table
+
+Structured output reduces downstream errors.
+
+---
+
+## Modular Construction
+
+Avoid repeating instructions.
+
+Instead, reference the governing Bibles.
+
+This reduces maintenance effort.
+
+---
+
+## Deterministic Behavior
+
+Whenever possible, prompts should produce consistent output for identical inputs.
+
+Creativity should be intentional—not accidental.
+
+---
+
+# Variable Standards
+
+Use descriptive variable names.
+
+Examples:
+
+{{episode_date}}
+
+{{city_name}}
+
+{{national_headlines}}
+
+{{sports_news}}
+
+{{weather_forecast}}
+
+{{positive_story}}
+
+Avoid ambiguous variables.
+
+---
+
+# Prompt Formatting
+
+Preferred order:
+
+Purpose
+
+Inputs
+
+Instructions
+
+Constraints
+
+Output Format
+
+Notes
+
+This structure improves readability.
+
+---
+
+# Constraints
+
+Prompts should clearly define what the AI must not do.
+
+Examples:
+
+Do not invent facts.
+
+Do not speculate.
+
+Do not reorder stories.
+
+Do not exceed runtime targets.
+
+Do not add opinions.
+
+Explicit constraints reduce hallucinations.
+
+---
+
+# Reusability
+
+Every prompt should be usable independently.
+
+No prompt should assume knowledge from previous conversations unless that information is intentionally supplied.
+
+---
+
+# Testing
+
+Every new prompt version should be tested using multiple historical news days.
+
+Evaluate:
+
+Accuracy
+
+Consistency
+
+Formatting
+
+Tone
+
+Runtime
+
+Failures should be documented before deployment.
+
+---
+
+# Versioning
+
+Every prompt receives a version number.
+
+Example:
+
+Editorial Prompt v1.0
+
+Script Prompt v1.0
+
+Audio Prompt v1.0
+
+Changes should include:
+
+Version
+
+Date
+
+Reason
+
+Expected improvement
+
+---
+
+# Prompt Repository
+
+Organize prompts by function.
+
+Example:
+
+/prompts
+
+system/
+
+research/
+
+editorial/
+
+script/
+
+audio/
+
+video/
+
+publishing/
+
+qa/
+
+experimental/
+
+Production prompts should never be edited directly in production.
+
+All changes should be tested first.
+
+---
+
+# Documentation
+
+Each prompt should include:
+
+Purpose
+
+Inputs
+
+Outputs
+
+Dependencies
+
+Version
+
+Author
+
+Last Modified
+
+Related Bibles
+
+---
+
+# AI Independence
+
+The prompt library should remain portable.
+
+Whenever possible, prompts should avoid model-specific wording.
+
+This allows migration between different AI providers with minimal changes.
+
+---
+
+# Future Improvements
+
+Potential future enhancements include:
+
+Prompt chaining
+
+Dynamic prompt assembly
+
+Automated prompt evaluation
+
+A/B testing
+
+Performance scoring
+
+Prompt analytics
+
+These features belong in future versions but should remain compatible with Version 1.0.
+
+---
+
+# Governance
+
+The Prompt Engineering Bible governs every prompt used by Project Goodnight.
+
+If a prompt conflicts with another document, the order of precedence is:
+
+1. Production Bible
+2. Audio Bible
+3. Editorial Bible
+4. Prompt Engineering Bible
+5. Individual Prompt
+
+Lower-level documents may extend higher-level rules but may never contradict them.
+
+---
+
+# Version Control
+
+Version 1.0 establishes the baseline architecture for all prompt development.
+
+Future revisions should improve clarity, modularity, and maintainability while preserving compatibility with existing workflows.

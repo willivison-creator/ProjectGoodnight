@@ -1,0 +1,491 @@
+
+# GOODNIGHT, JACKSON
+## Audio Production Bible
+### Version 1.0
+
+---
+
+# Purpose:
+
+The audio should feel less like a song and less like a traditional newscast.
+
+It should feel like an evening conversation that just happens to be musical.
+
+The listener should immediately recognize the first few seconds as "Goodnight, Jackson."
+
+Every episode should sound like it belongs to the same series.
+
+The news changes. 
+
+The identity never does.
+
+---
+
+# Overall Audio Description:
+
+Country rock and acoustic folk-pop with spoken word and melodic male vocals and a driving backbeat. Acoustic guitar plays steady eighth-note strumming patterns. Clean electric guitar plays rhythmic eighth-note strumming patterns while a second electric guitar provides melodic fills and arpeggios with light overdrive and bridge-pickup twang. Electric bass follows the root notes with a warm, rounded tone. The bass guitar follows the kick drum with a steady root-note pulse. Drums feature a light snare backbeat with a short decay and a tight kick drum. A male vocalist delivers a spoken-word style narration in the intro before transitioning into a melodic baritone delivery. Spoken word narration transitions into sung vocal harmonies in the choruses.  The tempo is 105 to 110 BPM, 4/4 time signature, in the key of G major.
+
+
+Example Flow:
+
+[Intro]
+[acoustic guitar strumming, tight percussion]
+
+[Verse 1]
+[spoken word male vocals]
+
+[Chorus]
+[sung male vocals with harmony, bass and electric guitar enter, full band arrangement]
+[melodic baritone vocals]
+
+[Verse 2]
+[spoken word male vocals, acoustic guitar and light drums continue]
+
+[Chorus]
+[melodic baritone vocals, bass and electric guitar re-enter, full band arrangement]
+
+Etc.
+
+[Outro]
+[sung male vocals, full band arrangement]
+
+---
+
+# Runtime:
+
+Target Runtime: 3:30–4:30
+
+Minimum: 3:00
+
+Maximum: 5:00
+
+The pace should never feel rushed.
+Listeners should feel invited into the broadcast.
+
+---
+
+# Musical Personality:
+
+Overall Mood:
+• Warm • Familiar • Hopeful • Relaxed • Neighborly • Confident • Calm • Optimistic
+
+Avoid:
+• Aggressive • Dramatic • Overly emotional • Sad • Triumphant • Comedic • Over-produced
+
+The emotional goal is to help listeners unwind while staying informed.
+
+---
+
+# Musical Style:
+
+Country-pop with modern broadcast polish.
+
+Imagine the warmth of a hometown radio station combined with contemporary Nashville production.
+
+Instrumentation should support the storytelling rather than compete with it.
+
+Primary instruments:
+• Acoustic guitar • Clean electric guitar • Electric bass • Live drum kit • Piano or warm keyboard pad • Light percussion only when needed
+
+No heavy rock guitars.
+No electronic dance elements.
+No light, classical piano.
+No cinematic scoring.
+
+The music should create momentum without demanding attention.
+
+---
+
+# Tempo:
+
+Target: 112–116 BPM
+Steady 4/4.
+
+Consistent throughout the episode.
+No dramatic tempo changes.
+
+---
+
+# lEAD VOCAL:
+
+The lead voice is the anchor of the show.
+He is not "performing."
+He is communicating.
+His role is a narrator.
+
+Characteristics:
+• Warm • Mature • Friendly • Calm • Trustworthy • Slight smile in the voice • Excellent diction • Natural pacing • Never rushed
+
+The delivery should be speaking and narration.
+Think storytelling rather than melodic performance.
+The listener should feel as though someone is sitting beside them at the kitchen table explaining what happened today.
+
+## Role: 
+
+Lead Narrator
+
+## Overall personality:
+
+Warm
+
+Friendly
+
+Professional
+
+Relaxed
+
+Confident
+
+Neighborly
+
+Patient
+
+Delivery should feel conversational.
+
+Never theatrical.
+
+Never exaggerated.
+
+Never rushed.
+
+## Energy Curve:
+
+Opening
+Energy 6/10
+
+National News
+6.5/10
+
+World News
+6/10
+
+Sports
+7/10
+
+Mississippi
+6.5/10
+
+Jackson
+6.5/10
+
+Weather
+5.5/10
+
+Positive Story
+7.5/10
+
+Closing
+5/10
+
+The performance should gently descend toward the ending.
+
+## Pacing:
+
+Speak naturally.
+
+Average pace:
+145–165 words per minute.
+
+Allow brief pauses after major stories.
+
+Never rush transitions.
+
+Never sound like headlines are being read from a teleprompter.
+
+## Pauses:
+
+Insert natural pauses.
+
+Examples:
+• After greetings.
+• After significant news.
+• Before weather.
+• Before the positive story.
+• Before the final sign-off.
+
+Silence is part of the performance.
+
+## Emphasis:
+
+Emphasize:
+• Community names
+• Important locations
+• Major developments
+• Positive achievements
+
+Do not over-emphasize statistics or numbers.
+
+---
+
+# HARMONY VOCALS:
+
+The backing vocals are the signature of the show.
+
+They are not decoration.
+
+They are a second narrator.
+
+Their job is to reinforce the emotional rhythm of the broadcast.
+
+They operate as the chorus.
+
+They provide the transition between topics.
+
+They sing with musical accompaniment.
+
+They provide harmony when the music volume increases.
+
+## Characteristics:
+
+• Three male harmony voices • Rich but understated • Tight harmony • Wide stereo placement
+• Accompanied by louder music • Soft entrances • Gentle exits
+
+## Harmony Direction:
+
+Backing vocals provide the harmony between pauses by the lead.
+
+Backing vocals are used to transition between topics.
+
+Backing vocals begin or conclude stories and topics.
+
+Backing vocals provide rhythmic storytelling that support the lead.
+
+They never overpower the lead.
+
+They never sing at the same time as the lead.
+
+They never compete.
+
+Instead they:
+
+• Transition between topics supported by musical accompaniment.
+• Echo important phrases.
+• Harmonize additional facts.
+• Reinforce emotional transitions and key words.
+• Support the closing.
+• Celebrate the positive story.
+• Create emotional lift • Smooth transitions
+
+---
+
+# Vocal Interaction:
+
+The lead always owns the story.
+
+The harmonies support the story.
+
+Example interaction:
+Lead: "Meanwhile here in Mississippi..."
+Harmony: "...right here at home..."
+
+Lead: "The community came together..."
+Harmony: "...just like always..."
+
+The backup voices should sound supportive rather than interruptive.
+
+---
+
+# Pacing:
+
+Every story follows the same rhythm:
+• Introduce
+• Explain
+• Transition
+• Resolve
+• Pause
+• Move on.
+
+Speak naturally.
+
+Average pace:
+145–165 words per minute.
+
+Allow brief pauses after major stories.
+
+Natural pauses are critical.
+
+Silence is part of the production.
+
+Never rush transitions.
+
+Never sound like headlines are being read from a teleprompter.
+
+---
+
+# Transitions:
+
+Transitions should feel effortless.
+
+Examples:
+"Meanwhile..."
+"Closer to home..."
+"Across the state..."
+"On the sports front..."
+"And finally..."
+
+Never use abrupt topic changes.
+
+Avoid sudden changes in vocal intensity.
+
+The audience should feel guided rather than redirected.
+
+---
+
+# Music Dynamics:
+
+Music should gently rise beneath important stories narrated by lead vocals.
+
+Lower slightly during factual reporting.
+
+Lift during positive stories.
+
+Become warmest during the closing.
+
+Never overwhelm the narration.
+
+---
+
+# Mixing:
+
+Lead vocal: Always centered.
+
+Harmony vocals: Wide stereo image.
+
+Acoustic guitar: Wide.
+
+Bass: Centered.
+
+Kick: Centered.
+
+Snare: Centered.
+
+Pads: Wide but subtle.
+
+Reverb: Warm and natural.
+
+Compression: Broadcast-ready without sounding over-processed.
+
+---
+
+# Episode Structure:
+
+• Opening
+• Welcome.
+• Set the mood.
+• National Headlines
+• Global News
+• Sports
+• Mississippi News
+• Jackson Area News
+• Weather
+• Positive Community Story
+• Closing Reflection
+• Signature Sign-off
+
+This order should remain constant across every episode.
+
+---
+
+# Weather:
+
+Relax slightly.
+
+Weather is conversational.
+
+Imagine discussing tomorrow with a neighbor.
+
+---
+
+# Positive Story:
+
+Smile can be heard in the voice.
+
+Do not exaggerate.
+
+Allow warmth to develop naturally.
+
+---
+
+# Ending:
+
+Every broadcast should slow slightly during the final twenty seconds.
+
+The listener should feel the day gently coming to an end.
+
+The final words should feel familiar and comforting.
+
+The emotional takeaway is:
+"The day is over.
+You're informed.
+Tomorrow will take care of itself."
+
+Leave comfortable pauses.
+
+Allow the final words to settle.
+
+The sign-off should become a recognizable signature.
+---
+
+# Emotional Arc:
+
+Beginning
+
+Interested
+↓
+Informed
+↓
+Connected
+↓
+Hopeful
+↓
+Peaceful
+
+The emotional journey should happen naturally.
+
+Never manipulate emotion.
+
+---
+
+# Identity Rules:
+
+Maintain:
+• Warm narration
+• Neighborly tone
+• Consistent pacing
+• Gentle transitions
+• Balanced dynamics
+• Natural breathing
+• Country-pop influence
+• Warm acoustic instrumentation
+• Broadcast polish
+• Subtle harmony
+• Natural vocal delivery
+• Even pacing
+
+Relaxed ending
+
+The show should never chase viral trends.
+
+Never sound sensational.
+
+Never manufacture excitement.
+
+The confidence comes from consistency.
+
+Listeners should return because the experience is dependable.
+
+The goal is not simply to report the news.
+
+The goal is to become part of someone's nightly routine.
+
+---
+
+# Success Criteria:
+
+A first-time listener should think:
+"That was enjoyable."
+
+A regular listener should think:
+"It feels good to be home."
+
+If an episode can be identified as "Goodnight, Jackson" within the first ten seconds without hearing the title, the production has succeeded.
